@@ -1,0 +1,1 @@
+{"version":3,"file":"getPackageName.js","sourceRoot":"","sources":["getPackageName.ts"],"names":[],"mappings":";;AAAA,+BAA+B;AAC/B,yDAAsD;AAEtD,MAAM,YAAY,GAAW,2BAA2B,CAAC;AAEzD,SAAgB,cAAc,CAC5B,OAAe,cAAO,CAAC,SAAS,EAAE,QAAQ,EAAE,cAAc,CAAC;IAE3D,OAAO,mCAAgB,CAAS,MAAM,EAAE,IAAI,EAAE,YAAY,CAAC,CAAC;AAC9D,CAAC;AAJD,wCAIC"}

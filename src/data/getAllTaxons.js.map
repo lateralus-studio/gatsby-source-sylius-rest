@@ -1,0 +1,1 @@
+{"version":3,"file":"getAllTaxons.js","sourceRoot":"","sources":["getAllTaxons.ts"],"names":[],"mappings":";;;;;;;;;;;AACA,+DAA4D;AAC5D,uEAAyF;AAEzF,SAAsB,YAAY,CAChC,GAAW,EACX,OAAiB;;QAEjB,MAAM,cAAc,GAAmB,IAAI,+BAAc,CAAC,EAAE,GAAG,EAAE,CAAC,CAAC;QAEnE,OAAO,iDAAuB,CAAC,cAAc,EAAE,OAAO,CAAC,CAAC;IAC1D,CAAC;CAAA;AAPD,oCAOC"}

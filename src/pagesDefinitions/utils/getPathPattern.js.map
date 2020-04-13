@@ -1,0 +1,1 @@
+{"version":3,"file":"getPathPattern.js","sourceRoot":"","sources":["getPathPattern.ts"],"names":[],"mappings":";;AAEA,SAAgB,cAAc,CAC5B,IAA4C,EAC5C,MAAc,EACd,cAAsB;IAEtB,IAAI,CAAC,IAAI,EAAE;QACT,OAAO,cAAc,CAAC;KACvB;IAED,IAAI,OAAO,IAAI,KAAK,QAAQ,EAAE;QAC5B,OAAO,IAAI,CAAC;KACb;IAED,OAAO,IAAI,CAAC,MAAM,CAAC,IAAI,cAAc,CAAC;AACxC,CAAC;AAdD,wCAcC"}
