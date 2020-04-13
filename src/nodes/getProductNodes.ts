@@ -54,7 +54,7 @@ async function getProductNode(
       createNodeId,
       parentNodeId: imageId,
       store,
-      url: image.cachedPath,
+      url: image.path,
       reporter,
     } as CreateRemoteFileNodeArgs);
 

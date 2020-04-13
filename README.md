@@ -106,7 +106,6 @@ query Products {
       id
       images {
         path
-        cachedPath
       }
       locale
       metaDescription

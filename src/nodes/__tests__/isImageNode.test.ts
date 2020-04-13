@@ -8,14 +8,13 @@ describe('isImageNode', () => {
     it('should return true', () => {
       // having
       const node: ImageNode = {
-        cachedPath: 'some_cached_path.jpg',
+        path: 'some_path.jpg',
         file: {} as FileSystemNode,
         id: 'id',
         internal: {
           type: 'SyliusImage',
           contentDigest: '',
         },
-        path: 'some_path.jpg',
       };
 
       // when
