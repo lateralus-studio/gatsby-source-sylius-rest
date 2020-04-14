@@ -3,7 +3,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 exports.productSchema = {
     name: 'SyliusProduct',
     fields: {
-        // attributes: 'SyliusAttribute[]',
+        attributes: '[SyliusAttribute]',
         averageRating: 'Float',
         channelCode: 'String!',
         code: 'String!',

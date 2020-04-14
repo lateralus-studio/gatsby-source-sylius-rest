@@ -6,6 +6,7 @@ exports.productVariantSchema = {
         axis: '[String]!',
         code: 'String!',
         // images: 'SyliusImage[]',
+        name: 'String',
         nameAxis: 'JSON!',
         originalPrice: 'SyliusProductPrice!',
         price: 'SyliusProductPrice!',
