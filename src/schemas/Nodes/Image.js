@@ -4,6 +4,7 @@ exports.imageSchema = {
     name: 'SyliusImage',
     fields: {
         path: 'String!',
+        code: 'String!',
         file: 'File!',
     },
     interfaces: [

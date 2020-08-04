@@ -106,6 +106,7 @@ query Products {
       id
       images {
         path
+        code
       }
       locale
       metaDescription
