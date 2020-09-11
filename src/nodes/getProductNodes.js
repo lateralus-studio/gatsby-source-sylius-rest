@@ -37,7 +37,7 @@ function getProductNode(product, locale, createNodeId, createContentDigest, opti
                 url: image.path,
                 reporter,
             });
-            return Object.assign(Object.assign({}, image), { file: fileNode, id: imageId, internal: {
+            return Object.assign(Object.assign({}, image), { file: fileNode, id: imageId, productSlug: product.slug, internal: {
                     type: 'SyliusImage',
                     content: imageContent,
                     contentDigest: createContentDigest(imageContent),

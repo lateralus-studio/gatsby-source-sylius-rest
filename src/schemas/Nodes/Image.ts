@@ -5,7 +5,8 @@ import { ComposeObjectTypeConfig } from 'graphql-compose';
 export interface BaseImageNode {
   path: string;
   code: string;
-  file: FileSystemNode
+  file: FileSystemNode;
+  productSlug: string;
 }
 
 export type ImageNode = BaseImageNode & NodeInput;
@@ -16,6 +17,7 @@ export const imageSchema: ComposeObjectTypeConfig<any, any> = {
     path: 'String!',
     code: 'String!',
     file: 'File!',
+    productSlug: 'String',
   },
   interfaces: [
     'Node',

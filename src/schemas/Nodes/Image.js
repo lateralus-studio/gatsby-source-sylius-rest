@@ -6,6 +6,7 @@ exports.imageSchema = {
         path: 'String!',
         code: 'String!',
         file: 'File!',
+        productSlug: 'String',
     },
     interfaces: [
         'Node',

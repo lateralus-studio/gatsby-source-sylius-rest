@@ -62,6 +62,7 @@ async function getProductNode(
       ...image,
       file: fileNode,
       id: imageId,
+      productSlug: product.slug,
       internal: {
         type: 'SyliusImage',
         content: imageContent,
